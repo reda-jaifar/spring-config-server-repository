@@ -19,4 +19,4 @@ management:
       exposure:
         include:["health", "info", "refresh"]
 
-command-type: rapid
+order-type: rapid
