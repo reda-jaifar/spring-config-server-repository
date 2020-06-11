@@ -16,4 +16,4 @@ management:
       exposure:
         include:["health", "info", "refresh"]
 
-order-type: premium
+order-type: private
